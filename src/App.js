@@ -26,7 +26,7 @@ export default function App() {
           </a>{" "}
           and is
           <a
-            href="https://github.com/dperki02/tiempo"
+            href="https://github.com/dperki02/weather-react"
             target="_blank"
             rel="noopener noreferrer">
             {" "}
@@ -34,7 +34,7 @@ export default function App() {
           </a>{" "}
           and website hosted on
           <a
-            href="https://asaka-tiempo.netlify.app/"
+            href="https://asaka-weather-react.netlify.app/"
             target="_blank"
             rel="noopener noreferrer">
             {" "}
